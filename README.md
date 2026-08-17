@@ -31,6 +31,7 @@ Hello
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,17 @@ Hello
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
