@@ -18,6 +18,7 @@ Hello
 ## Math
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/Meet57a/daa_leetcode/tree/master/0372-super-pow) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
@@ -43,6 +44,7 @@ Hello
 | [0240-search-a-2d-matrix-ii](https://github.com/Meet57a/daa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Meet57a/daa_leetcode/tree/master/0372-super-pow) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,4 +139,12 @@ Hello
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Meet57a/daa_leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Meet57a/daa_leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
