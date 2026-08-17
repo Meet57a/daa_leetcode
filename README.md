@@ -13,6 +13,7 @@ Hello
 | [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meet57a/daa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Math
 |  |
@@ -41,12 +42,14 @@ Hello
 | [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meet57a/daa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -82,6 +85,7 @@ Hello
 | [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -90,6 +94,7 @@ Hello
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -102,10 +107,12 @@ Hello
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -126,4 +133,8 @@ Hello
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
