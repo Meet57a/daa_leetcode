@@ -10,6 +10,7 @@ Hello
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Math
 |  |
@@ -35,6 +36,7 @@ Hello
 | [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Meet57a/daa_leetcode/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Hello
 | ------- |
 | [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -90,4 +93,12 @@ Hello
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Meet57a/daa_leetcode/tree/master/0190-reverse-bits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
