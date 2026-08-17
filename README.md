@@ -12,6 +12,7 @@ Hello
 | [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meet57a/daa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ Hello
 | [0190-reverse-bits](https://github.com/Meet57a/daa_leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meet57a/daa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +110,20 @@ Hello
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meet57a/daa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
