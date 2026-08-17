@@ -9,6 +9,7 @@ Hello
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Math
 |  |
@@ -32,11 +33,13 @@ Hello
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -69,8 +72,17 @@ Hello
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
