@@ -45,6 +45,7 @@ Hello
 | [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Meet57a/daa_leetcode/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Hello
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Tree
 |  |
 | ------- |
@@ -147,4 +149,12 @@ Hello
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Meet57a/daa_leetcode/tree/master/0372-super-pow) |
+## String
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
