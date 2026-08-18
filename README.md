@@ -15,6 +15,7 @@ Hello
 | [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0427-construct-quad-tree) |
+| [0654-maximum-binary-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0654-maximum-binary-tree) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Math
 |  |
@@ -49,6 +50,7 @@ Hello
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0427-construct-quad-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Meet57a/daa_leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0654-maximum-binary-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0654-maximum-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Hello
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0427-construct-quad-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0427-construct-quad-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Meet57a/daa_leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0654-maximum-binary-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -73,6 +76,7 @@ Hello
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0654-maximum-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -163,4 +167,16 @@ Hello
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
