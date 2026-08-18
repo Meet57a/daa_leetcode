@@ -18,11 +18,13 @@ Hello
 | [0654-maximum-binary-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Meet57a/daa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/Meet57a/daa_leetcode/tree/master/0932-beautiful-array) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Math
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Meet57a/daa_leetcode/tree/master/0372-super-pow) |
+| [0932-beautiful-array](https://github.com/Meet57a/daa_leetcode/tree/master/0932-beautiful-array) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
@@ -56,6 +58,7 @@ Hello
 | [0654-maximum-binary-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Meet57a/daa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/Meet57a/daa_leetcode/tree/master/0932-beautiful-array) |
 ## Hash Table
 |  |
 | ------- |
