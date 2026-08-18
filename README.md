@@ -65,6 +65,7 @@ Hello
 | [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Meet57a/daa_leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1763-longest-nice-substring](https://github.com/Meet57a/daa_leetcode/tree/master/1763-longest-nice-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Hello
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1763-longest-nice-substring](https://github.com/Meet57a/daa_leetcode/tree/master/1763-longest-nice-substring) |
 ## Tree
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Hello
 | ------- |
 | [0190-reverse-bits](https://github.com/Meet57a/daa_leetcode/tree/master/0190-reverse-bits) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Meet57a/daa_leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1763-longest-nice-substring](https://github.com/Meet57a/daa_leetcode/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -191,10 +194,12 @@ Hello
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/Meet57a/daa_leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/Meet57a/daa_leetcode/tree/master/1763-longest-nice-substring) |
 ## Stack
 |  |
 | ------- |
