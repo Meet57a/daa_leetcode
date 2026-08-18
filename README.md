@@ -24,6 +24,7 @@ Hello
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Meet57a/daa_leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Meet57a/daa_leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3537-fill-a-special-grid](https://github.com/Meet57a/daa_leetcode/tree/master/3537-fill-a-special-grid) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Meet57a/daa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Hello
 | [1763-longest-nice-substring](https://github.com/Meet57a/daa_leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Meet57a/daa_leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3537-fill-a-special-grid](https://github.com/Meet57a/daa_leetcode/tree/master/3537-fill-a-special-grid) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Meet57a/daa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Hello
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/Meet57a/daa_leetcode/tree/master/1763-longest-nice-substring) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Meet57a/daa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -132,11 +135,13 @@ Hello
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Meet57a/daa_leetcode/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Meet57a/daa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Meet57a/daa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -182,6 +187,7 @@ Hello
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Meet57a/daa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -249,4 +255,5 @@ Hello
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Meet57a/daa_leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Meet57a/daa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
