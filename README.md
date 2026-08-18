@@ -19,12 +19,14 @@ Hello
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Meet57a/daa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Meet57a/daa_leetcode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Math
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Meet57a/daa_leetcode/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/Meet57a/daa_leetcode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
@@ -59,6 +61,7 @@ Hello
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Meet57a/daa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Meet57a/daa_leetcode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +113,7 @@ Hello
 | [0169-majority-element](https://github.com/Meet57a/daa_leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -132,11 +136,13 @@ Hello
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meet57a/daa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -198,4 +204,12 @@ Hello
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Meet57a/daa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
