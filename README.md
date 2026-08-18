@@ -22,6 +22,7 @@ Hello
 | [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Meet57a/daa_leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Meet57a/daa_leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Hello
 | [1382-balance-a-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Meet57a/daa_leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/Meet57a/daa_leetcode/tree/master/1763-longest-nice-substring) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Meet57a/daa_leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Hello
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Meet57a/daa_leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Meet57a/daa_leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -149,6 +152,7 @@ Hello
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Meet57a/daa_leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Meet57a/daa_leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -156,6 +160,7 @@ Hello
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Meet57a/daa_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Meet57a/daa_leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Meet57a/daa_leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
 | ------- |
@@ -195,6 +200,7 @@ Hello
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Meet57a/daa_leetcode/tree/master/1763-longest-nice-substring) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Meet57a/daa_leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
