@@ -14,6 +14,7 @@ Hello
 | [0240-search-a-2d-matrix-ii](https://github.com/Meet57a/daa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Meet57a/daa_leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0427-construct-quad-tree) |
 | [1563-stone-game-v](https://github.com/Meet57a/daa_leetcode/tree/master/1563-stone-game-v) |
 ## Math
 |  |
@@ -46,6 +47,7 @@ Hello
 | [0347-top-k-frequent-elements](https://github.com/Meet57a/daa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Meet57a/daa_leetcode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Meet57a/daa_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0427-construct-quad-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0427-construct-quad-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Hello
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Meet57a/daa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0427-construct-quad-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0427-construct-quad-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Hello
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meet57a/daa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0427-construct-quad-tree](https://github.com/Meet57a/daa_leetcode/tree/master/0427-construct-quad-tree) |
 ## Design
 |  |
 | ------- |
